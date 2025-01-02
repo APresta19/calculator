@@ -1,2 +1,4 @@
-# calculator app
-this is my calculator project
+# Calculator App
+By Andrew Presta
+
+This calculator supports order of operations. Try it out!
